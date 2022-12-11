@@ -1,7 +1,6 @@
 - Hi, I’m Caleb Ehrisman
-- I am a South Dakota School of Mines student purusing a M.S. in Computer science and engineering
-- I’m interested in all things computers
-- I’m currently learning Reinforcement learning, Computer Vision, and Multimedia processing techniques
+- I am a South Dakota School of Mines student purusing a M.S. in Computer Science and Engineering
+
 
 
 <!---
