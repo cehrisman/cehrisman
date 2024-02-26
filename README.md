@@ -1,5 +1,6 @@
 - Hi, I’m Caleb Ehrisman
 - I am a South Dakota School of Mines student purusing a M.S. in Computer Science and Engineering
+- I am graduating May 2024
 
 
 
