@@ -1,6 +1,6 @@
 - Hi, I’m Caleb Ehrisman
 - I have recently graduated from South Dakota School of Mines with a Masters of Science in Computer Science and Engineering
-- I also have a Bachelors in Science in Computer Engineering from SDM
+- I also have a Bachelors in Science in Computer Engineering from SDSMT
 
 
 
